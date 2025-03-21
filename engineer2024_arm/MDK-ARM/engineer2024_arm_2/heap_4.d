@@ -1,0 +1,13 @@
+.\engineer2024_arm_2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+.\engineer2024_arm_2\heap_4.o: G:\keil\KeilMDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\engineer2024_arm_2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+.\engineer2024_arm_2\heap_4.o: G:\keil\KeilMDK\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\engineer2024_arm_2\heap_4.o: G:\keil\KeilMDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\engineer2024_arm_2\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+.\engineer2024_arm_2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+.\engineer2024_arm_2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+.\engineer2024_arm_2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+.\engineer2024_arm_2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+.\engineer2024_arm_2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+.\engineer2024_arm_2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+.\engineer2024_arm_2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

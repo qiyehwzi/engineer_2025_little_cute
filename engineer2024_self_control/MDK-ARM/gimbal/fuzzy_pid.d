@@ -1,0 +1,11 @@
+gimbal\fuzzy_pid.o: ..\algorithm\Src\fuzzy_pid.c
+gimbal\fuzzy_pid.o: ../algorithm/Inc/fuzzy_pid.h
+gimbal\fuzzy_pid.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal\fuzzy_pid.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+gimbal\fuzzy_pid.o: ../Drivers/CMSIS/Include/core_cm4.h
+gimbal\fuzzy_pid.o: ../Drivers/CMSIS/Include/cmsis_version.h
+gimbal\fuzzy_pid.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+gimbal\fuzzy_pid.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+gimbal\fuzzy_pid.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+gimbal\fuzzy_pid.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+gimbal\fuzzy_pid.o: ../algorithm/Inc/MATH_LIB.h
